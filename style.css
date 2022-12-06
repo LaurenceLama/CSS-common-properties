@@ -1,0 +1,33 @@
+h1 {
+    border: 3px solid blue;
+    border-width: 5px;
+    border-style: dashed;
+    border-color: goldenrod;
+color: gray;
+}
+h2 {
+background-color: rgb(170, 215, 255);
+}
+div {
+    width: 100%;
+    max-width: 580px;
+    height: 80px;
+    background-color: brown;
+    color: rgb(255, 238, 0);
+}
+h3 {
+    width: 100%;
+    max-width: 580px;
+    background-color: brown;
+    color: aliceblue;
+}
+p {
+    width: 100%;
+    max-width: 800px;
+    height: 80vh;
+    background-color: brown;
+    color: rgb(255, 238, 0);
+    font-size: 50px;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+}
